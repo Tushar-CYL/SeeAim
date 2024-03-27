@@ -3,7 +3,7 @@ seaborn
 scikit-learn
 docx2txt
 scikit-learn
-streamli
+streamlit
 streamlit_option_menu
 streamlit_extras
 PyPDF2
