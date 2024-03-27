@@ -1,5 +1,3 @@
-from cgi import test
-from turtle import home
 import streamlit as st
 import time
 
