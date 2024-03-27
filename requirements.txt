@@ -13,4 +13,11 @@ numpy
 pandas
 firebase-admin
 google-auth
-
+numpy
+pandas
+streamlit
+streamlit_option_menu
+streamlit_extras
+tiktoken
+faiss-cpu
+selenium
