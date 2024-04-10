@@ -269,25 +269,25 @@ def main():
   #     time.sleep(5)
   # st.success('Done!')
 
-  html1="""
-    <div style="text-align:center; text-shadow: 3px 1px 2px purple;">
-      <h1>👨🏻‍💻 Career Prediction  👨🏻‍💻</h1>
-    </div>
-      """
-  st.markdown(html1,unsafe_allow_html=True) #simple html 
+  # html1="""
+  #   <div style="text-align:center; text-shadow: 3px 1px 2px purple;">
+  #     <h1>👨🏻‍💻 Career Prediction  👨🏻‍💻</h1>
+  #   </div>
+  #     """
+  # st.markdown(html1,unsafe_allow_html=True) #simple html 
 
-  # Images
+  # # Images
 
-  col1, col2, col3 = st.columns(3)
+  # col1, col2, col3 = st.columns(3)
 
-  with col1:
-      st.image("./assets/Career _Isometric.png")
+  # with col1:
+  #     st.image("./assets/Career _Isometric.png")
 
-  with col2:
-      st.image("./assets/career.png")
+  # with col2:
+  #     st.image("./assets/career.png")
 
-  with col3:
-      st.image("./assets/Career _Outline.png")
+  # with col3:
+  #     st.image("./assets/Career _Outline.png")
 
   html2="""
     <div style="text-align:center; text-shadow: 3px 1px 2px purple;">
